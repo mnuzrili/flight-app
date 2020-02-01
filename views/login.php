@@ -39,8 +39,8 @@
 				<div class="header-body text-center mb-7">
 					<div class="row justify-content-center">
 						<div class="col-lg-5 col-md-6">
-							<h1 class="text-white">Welcome!</h1>
-							<p class="text-lead text-light">Use these awesome forms to login or create new account in your project for free.</p>
+							<h1 class="text-white">Selamat Datang!</h1>
+							<p class="text-lead text-light">Login gan.</p>
 						</div>
 					</div>
 				</div>
@@ -58,7 +58,7 @@
 					<div class="card bg-secondary shadow border-0">
 						<div class="card-body px-lg-5 py-lg-5">
 							<div class="text-center text-muted mb-4">
-								<small>Sign in with credentials</small>
+								<small>Masuk disini mas</small>
 							</div>
 							<form role="form" method="post">
 								<div class="form-group mb-3">
@@ -80,7 +80,7 @@
 								<div class="custom-control custom-control-alternative custom-checkbox">
 									<input class="custom-control-input" id=" customCheckLogin" type="checkbox">
 									<label class="custom-control-label" for=" customCheckLogin">
-										<span class="text-muted">Remember me</span>
+										<span class="text-muted">Kenanglah aku</span>
 									</label>
 								</div>
 								<div class="text-center">
